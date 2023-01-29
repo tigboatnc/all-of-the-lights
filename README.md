@@ -8,7 +8,7 @@
 - Assumes some ML experience. 
 
 ## Part 1 : Torch API 
-[[1-torch-api]]
+[torch api](./1-torch-api)
 
 ## Part 2 : CNN : `Vision` 
 
